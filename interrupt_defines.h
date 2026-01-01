@@ -1,0 +1,3 @@
+#define EINT1_PIN 3//P0.3
+#define EINT1_VIC_CHNO 15
+#define EINT0_VIC_CHNO 14
